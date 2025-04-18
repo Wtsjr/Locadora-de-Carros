@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "Modelo": "hatch",
+    "Placa": "frz123",
+    "Disponivel": false
+  }
+]

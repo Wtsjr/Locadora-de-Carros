@@ -151,3 +151,4 @@ C:\Users\USER10\LocadoraVeiculos\bin\Debug\net8.0\runtimes\browser\lib\net8.0\Sy
 C:\Users\USER10\LocadoraVeiculos\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\USER10\LocadoraVeiculos\obj\Debug\net8.0\Locadora.721D5522.Up2Date
 C:\Users\USER10\LocadoraVeiculos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER10\LocadoraVeiculos\obj\Debug\net8.0\LocadoraVeiculos.sourcelink.json

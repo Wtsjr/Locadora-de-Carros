@@ -10,5 +10,40 @@
     "Cpf": "12456987",
     "Email": null,
     "Alugueis": []
+  },
+  {
+    "Nome": "juca",
+    "Cpf": "1000100010",
+    "Email": null,
+    "Alugueis": []
+  },
+  {
+    "Nome": "varzea",
+    "Cpf": "5555555567",
+    "Email": null,
+    "Alugueis": []
+  },
+  {
+    "Nome": "tomas",
+    "Cpf": "78945612300",
+    "Email": null,
+    "Alugueis": []
+  },
+  {
+    "Nome": "Oliver",
+    "Cpf": "131313131325",
+    "Email": null,
+    "Alugueis": [
+      {
+        "Veiculo": {
+          "Modelo": "hatch",
+          "Placa": "frz123",
+          "Disponivel": false
+        },
+        "DataAluguel": "2025-04-18T19:56:58.7693259-03:00",
+        "DataDevolucao": null,
+        "Valor": 0.0
+      }
+    ]
   }
 ]
